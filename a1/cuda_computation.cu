@@ -2,7 +2,7 @@
 * Author   : Harish R
 * Created  : June 26 2022
 * Modified : June 26 2022
-* Purpose  : Kernels to compute C = tran(A+B) - tran(B-A) (equivalent to 2*tran(A)
+* Purpose  : Kernels to compute C = tran(A+B) - tran(B-A) (equivalent to 2*tran(A))
 * Inputs   : ABsolute path to the text file in the PATH variable
 ***********************************************************************************/
 
